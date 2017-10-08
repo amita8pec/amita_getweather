@@ -1,0 +1,4 @@
+## Code to get weather data 
+## Developer - Amita
+
+Data from "https://www.wunderground.com/" is being used here to fetch weather data for a given Location and Time
