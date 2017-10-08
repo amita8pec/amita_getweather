@@ -1,4 +1,11 @@
 ## Code to get weather data 
 ## Developer - Amita
 
-Data from "https://www.wunderground.com/" is being used here to fetch weather data for a given Location and Time
+
+The requirement is to generate hourly weather data for a given Weather_station_Id and timestamp. 
+As the source of weather information to be used is not defined, Data from "https://www.wunderground.com/" is being used here to fetch weather data for a given Location and Time
+
+
+Alternatively, if required weather information can be generated using meterological formulas as well.
+
+
